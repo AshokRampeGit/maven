@@ -91,7 +91,6 @@
 			<artifactId>selenium-java</artifactId>
 			<version>3.14.0</version>
 		</dependency>
-		
 <!-- A testing framework for the JVM -->	
 		<dependency>
 			<groupId>org.testng</groupId>
@@ -105,7 +104,7 @@
 	    <artifactId>poi</artifactId>
 	    <version>3.17</version>
 	</dependency>
-   
+
    <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
 	<dependency>
 	    <groupId>org.apache.poi</groupId>
