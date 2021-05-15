@@ -25,7 +25,7 @@ public class OrangehrmTestSteps
 		System.out.println("opened success");
 		System.out.println("opened success dee");
 		System.out.println("opened success Deepika");
-		System.out.println("opened success DeepikaAshok");
+		System.out.println("opened success Deepika");
 		
 	}
 
@@ -37,6 +37,7 @@ public class OrangehrmTestSteps
 	} else 
 	{
 		System.out.println("Application Launch Failed");
+		System.out.println("opened success DeepikaAshok");
 	}
 	}
 	
